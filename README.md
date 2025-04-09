@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Roger. 👋🏽
 
-<!--
-**rog7/rog7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I'm currently working on an <strong>AI-powered web app</strong> designed to deliver high-quality, inspiring videos for musicians.<br>
+  I'm also actively maintaining my <strong>chord detection app</strong> — combining my love for music and tech.
+</p>
 
-Here are some ideas to get you started:
+<p>When I'm not coding, you’ll find me:</p>
+<ul>
+  <li>Working out</li>
+  <li>Playing the piano</li>
+  <li>Creating YouTube educational content</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><strong>Fun fact:</strong> I'm on a mission to perfect the art of cooking rice.</p>
