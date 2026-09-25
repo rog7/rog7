@@ -1,6 +1,7 @@
 ## Hey, I'm Roger. 👋🏽
 
 Senior backend engineer. I was the third engineer hired at an ed-tech startup.
+
 Right now I'm actively maintaining Apollo, my chord app, and focusing on scaling it.
 
 When I'm not coding, you'll find me:
