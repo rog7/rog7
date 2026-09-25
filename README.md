@@ -1,15 +1,12 @@
 ## Hey, I'm Roger. 👋🏽
 
-<p>
-  I'm currently working on an <strong>AI-powered web app</strong> designed to deliver high-quality, inspiring videos for musicians.<br>
-  I'm also actively maintaining my <strong>chord detection app</strong> — combining my love for music and tech.
-</p>
+Senior backend engineer. I was the third engineer hired at an ed-tech startup.
+Right now I'm actively maintaining Apollo, my chord app, and focusing on scaling it.
 
-<p>When I'm not coding, you’ll find me:</p>
-<ul>
-  <li>Working out</li>
-  <li>Playing the piano</li>
-  <li>Creating YouTube educational content</li>
-</ul>
+When I'm not coding, you'll find me:
 
-<p><strong>Fun fact:</strong> I'm on a mission to perfect the art of cooking rice.</p>
+- Working out
+- Playing the piano
+- Creating YouTube educational content
+
+**Fun fact:** I'm on a mission to perfect the art of cooking rice.
